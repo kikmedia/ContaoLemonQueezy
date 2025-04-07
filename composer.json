@@ -3,7 +3,7 @@
     "description": "Contao extension to get users in sync with LemonSqueezy.",
     "type": "contao-bundle",
     "license": "MIT",
-    "version": "0.1",
+    "version": "0.2",
     "homepage": "https://github.com/kikmedia/ContaoLemonQueezy",
     "authors": [
         {
