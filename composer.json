@@ -3,7 +3,7 @@
     "description": "Contao extension bridge users to LemonSqueezy.",
     "type": "contao-bundle",
     "license": "MIT",
-    "version": "0.3",
+    "version": "0.4",
     "homepage": "https://github.com/kikmedia/ContaoLemonQueezy",
     "authors": [
         {
