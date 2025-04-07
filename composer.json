@@ -1,6 +1,6 @@
 {
     "name": "kikmedia/contao-lemonsqueezy",
-    "description": "Contao extension to get users in sync with LemonSqueezy.",
+    "description": "Contao extension bridge users to LemonSqueezy.",
     "type": "contao-bundle",
     "license": "MIT",
     "version": "0.3",
