@@ -1,0 +1,9 @@
+<div class="subscription-manager">
+    {% for subscription in subscriptions %}
+        <div class="subscription">
+            <h3>{{ subscription.plan_name }}</h3>
+            <p>Status: {{ subscription.status|capitalize }}</p>
+            <a href="{{ manageUrl }}/{{ subscription.id }}" class="button">Verwalten</a>
+        </div>
+    {% endfor %}
+</div>
